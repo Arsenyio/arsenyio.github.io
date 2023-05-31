@@ -1,9 +1,9 @@
 [
     {
-      "color": "FF0000",
+      "color": "FFFF00",
       "dopname": "(X2)",
       "maxonline": 1000,
-      "name": "RED",
-      "online": 0
+      "name": "SARANSK",
+      "online": 1000
     }
   ]
