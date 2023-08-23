@@ -1,8 +1,16 @@
 [
     {
-      "x2": "true",
-      "name": "мастурбист рп",
-      "online": 666,
-      "maxonline": 1000
+      "color": "#000000",
+      "dopname": "(X3 АКЦИИ)",
+      "maxonline": 150,
+      "name": "BLACK",
+      "online": 0
+    },
+    {
+      "color": "FFFFFF",
+      "dopname": "(НЕТ ДОСТУПА)",
+      "maxonline": 500,
+      "name": "TEST",
+      "online": 3
     }
- ]
+  ]
