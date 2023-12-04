@@ -1,13 +1,13 @@
 [
     {
-      "color": "#808080",
+      "color": "808080",
       "dopname": "",
       "maxonline": 1000,
       "name": "MOSCOW",
       "online": 8
     },
     {
-      "color": "#000000",
+      "color": "000000",
       "dopname": "",
       "maxonline": 500,
       "name": "TEST",
