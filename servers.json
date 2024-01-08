@@ -7,14 +7,5 @@
       "name": "RED",
       "online": 2,
       "сonnector": 0
-    },
-    {
-      "action": false,
-      "color": "FFFF00",
-      "dopname": "(X2)",
-      "maxonline": 1000,
-      "name": "YELLOW",
-      "online": 2,
-      "сonnector": 1
     }
   ]
