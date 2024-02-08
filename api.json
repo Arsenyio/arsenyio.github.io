@@ -1,5 +1,5 @@
 {
-    "CACHE_VERSION": 2,
+    "CACHE_VERSION": 1,
     "URL_GAME_FILES" : "cache.zip",
     "URL_UPDATE_FILES" : "http://arsenyio.github.io/updatecache.zip"
 }
